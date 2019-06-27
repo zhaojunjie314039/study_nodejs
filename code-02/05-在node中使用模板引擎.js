@@ -7,7 +7,7 @@
 //    node_modules 不要改，也不支持改。
 
 // 在 Node 中使用 art-template 模板引擎
-// 模板引起最早就是诞生于服务器领域，后来才发展到了前端。
+// 模板引擎最早就是诞生于服务器领域，后来才发展到了前端。
 // 
 // 1. 安装 npm install art-template
 // 2. 在需要使用的文件模块中加载 art-template

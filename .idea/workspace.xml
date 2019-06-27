@@ -2,10 +2,252 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff70769-26da-4417-bced-1c6f3f9c2b5d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/code-02/03-Apache-目录列表.js" afterPath="$PROJECT_DIR$/code-02/03-Apache-目录列表.js" />
-      <change beforePath="$PROJECT_DIR$/code-02/04-读取目录.js" afterPath="$PROJECT_DIR$/code-02/04-读取目录.js" />
+      <change beforePath="$PROJECT_DIR$/code-02/05-在node中使用模板引擎.js" afterPath="$PROJECT_DIR$/code-02/05-在node中使用模板引擎.js" />
+      <change beforePath="$PROJECT_DIR$/code-02/06-在浏览器中使用art-template.html" afterPath="$PROJECT_DIR$/code-02/06-在浏览器中使用art-template.html" />
+      <change beforePath="$PROJECT_DIR$/code-02/07-在Apache案例中加入模板引擎.js" afterPath="$PROJECT_DIR$/code-02/07-在Apache案例中加入模板引擎.js" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/acorn" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/acorn.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/escodegen" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/escodegen.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/esgenerate" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/esgenerate.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/esparse" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/esparse.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/esvalidate" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/esvalidate.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/he" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/he.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/html-minifier" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/html-minifier.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/uglifyjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/.bin/uglifyjs.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/bin/acorn" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/dist/.keep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/dist/acorn.es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/dist/acorn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/dist/acorn_loose.es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/dist/acorn_loose.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/dist/walk.es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/dist/walk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/acorn/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/lib/defaults.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/lib/extension.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/lib/precompile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/lib/render.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/lib/runtime.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/lib/template-web.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/art-template/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/camel-case/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/camel-case/camel-case.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/camel-case/camel-case.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/camel-case/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/clean-css/History.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/clean-css/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/clean-css/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/clean-css/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/clean-css/lib/clean.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/clean-css/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/commander/History.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/commander/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/commander/Readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/commander/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/commander/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/README.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/example/cmp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/test/NaN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/test/cmp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/deep-is/test/neg-vs-pos-0.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/detect-node/Readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/detect-node/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/detect-node/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/escodegen/LICENSE.BSD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/escodegen/LICENSE.source-map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/escodegen/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/escodegen/bin/escodegen.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/escodegen/bin/esgenerate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/escodegen/escodegen.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/escodegen/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esprima/ChangeLog" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esprima/LICENSE.BSD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esprima/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esprima/bin/esparse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esprima/bin/esvalidate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esprima/dist/esprima.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esprima/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/estraverse/.babelrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/estraverse/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/estraverse/LICENSE.BSD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/estraverse/estraverse(1).js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/estraverse/gulpfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/estraverse/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esutils/LICENSE.BSD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esutils/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esutils/lib/ast.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esutils/lib/code.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esutils/lib/keyword.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esutils/lib/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/esutils/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/fast-levenshtein/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/fast-levenshtein/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/fast-levenshtein/levenshtein.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/fast-levenshtein/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/he/LICENSE-MIT.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/he/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/he/bin/he" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/he/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/he/man/he.1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/he/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/cli.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/sample-cli-config-file.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/src/htmlminifier.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/src/htmlparser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/src/tokenchain.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/html-minifier/src/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/is-keyword-js/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/is-keyword-js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/is-keyword-js/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/js-tokens/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/js-tokens/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/js-tokens/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/js-tokens/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/js-tokens/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/lib/cast.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/lib/coerce.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/lib/parse-string.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/lib/parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/levn/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/lower-case/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/lower-case/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/lower-case/lower-case.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/lower-case/lower-case.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/lower-case/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/merge-source-map/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/merge-source-map/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/merge-source-map/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/merge-source-map/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/ncname/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/ncname/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/ncname/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/no-case.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/no-case.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/vendor/camel-case-regexp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/vendor/camel-case-upper-regexp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/no-case/vendor/non-word-regexp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/optionator/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/optionator/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/optionator/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/optionator/lib/help.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/optionator/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/optionator/lib/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/optionator/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/param-case/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/param-case/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/param-case/package(1).json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/param-case/param-case.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/param-case/param-case.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/lib/Func.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/lib/List.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/lib/Num.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/lib/Obj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/lib/Str.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/prelude-ls/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/relateurl/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/relateurl/lib/constants.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/relateurl/lib/format.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/relateurl/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/relateurl/lib/options.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/relateurl/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/relateurl/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/dist/source-map.debug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/dist/source-map.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/dist/source-map.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/dist/source-map.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/array-set.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/base64-vlq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/base64.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/binary-search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/mapping-list.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/quick-sort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/source-map-consumer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/source-map-generator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/source-node.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/lib/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/source-map/source-map.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/type-check/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/type-check/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/type-check/lib/check.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/type-check/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/type-check/lib/parse-type.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/type-check/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/bin/uglifyjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/ast.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/compress.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/minify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/mozilla-ast.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/output.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/propmangle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/scope.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/sourcemap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/transform.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/lib/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/tools/domprops.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/tools/exports.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/tools/node.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/uglify-js/tools/props.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/upper-case/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/upper-case/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/upper-case/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/upper-case/upper-case.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/upper-case/upper-case.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/README.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/example/center.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/example/meat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/test/break.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/test/idleness.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/wordwrap/test/wrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/xml-char-classes/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/xml-char-classes/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/node_modules/xml-char-classes/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/code-02/template-apache.html" afterPath="$PROJECT_DIR$/code-02/template-apache.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,24 +261,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05-在node中使用模板引擎.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code-02/05-在node中使用模板引擎.js">
+      <file leaf-file-name="07-在Apache案例中加入模板引擎.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code-02/07-在Apache案例中加入模板引擎.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="-223">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code-02/template.html">
+      <file leaf-file-name="template-apache.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code-02/template-apache.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="232">
+              <caret line="92" column="88" lean-forward="false" selection-start-line="92" selection-start-column="88" selection-end-line="92" selection-end-column="88" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03-Apache-目录列表.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code-02/03-Apache-目录列表.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+              <folding>
+                <marker date="1561618133827" expanded="true" signature="750:996" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +317,10 @@
         <option value="$PROJECT_DIR$/code-02/template.html" />
         <option value="$PROJECT_DIR$/code-02/03-Apache-目录列表.js" />
         <option value="$PROJECT_DIR$/code-02/04-读取目录.js" />
+        <option value="$PROJECT_DIR$/code-02/05-在node中使用模板引擎.js" />
+        <option value="$PROJECT_DIR$/code-02/06-在浏览器中使用art-template.html" />
+        <option value="$PROJECT_DIR$/code-02/07-在Apache案例中加入模板引擎.js" />
+        <option value="$PROJECT_DIR$/code-02/template-apache.html" />
       </list>
     </option>
   </component>
@@ -84,10 +340,9 @@
     <handled-path value="$PROJECT_DIR$/code-02/feedback/node_modules" />
     <handled-path value="$PROJECT_DIR$/code-02/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -126,8 +381,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,10 +393,39 @@
               <item name="study_nodejs" type="462c0819:PsiDirectoryNode" />
               <item name="code-02" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study_nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study_nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="code-02" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study_nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study_nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="code-02" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="art-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study_nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study_nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="code-02" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="art-template" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study_nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study_nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="code-02" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,12 +475,14 @@
       <workItem from="1561604718617" duration="182000" />
       <workItem from="1561604972542" duration="3861000" />
       <workItem from="1561616978963" duration="740000" />
-      <workItem from="1561618106375" duration="523000" />
+      <workItem from="1561618106375" duration="870000" />
+      <workItem from="1561619311900" duration="4072000" />
+      <workItem from="1561625420794" duration="1244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8200000" />
+    <option name="totallyTimeSpent" value="13863000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,24 +494,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32784638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2894376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -244,10 +529,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code-02/01-http-helloworld.js">
+    <entry file="file://$PROJECT_DIR$/code-02/07-在Apache案例中加入模板引擎.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="73" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/03-Apache-目录列表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <marker date="1561618133827" expanded="true" signature="750:996" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/template-apache.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2093">
+          <caret line="91" column="88" lean-forward="false" selection-start-line="91" selection-start-column="88" selection-end-line="91" selection-end-column="88" />
           <folding />
         </state>
       </provider>
@@ -256,7 +559,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1541">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/05-在node中使用模板引擎.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/01-http-helloworld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -274,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -282,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1541">
           <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -322,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,13 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code-02/02-像Apache一样.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code-02/www/test1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -417,15 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code-02/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -433,13 +737,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/node_modules/art-template/lib/template-web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/06-在浏览器中使用art-template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/05-在node中使用模板引擎.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/02-像Apache一样.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code-02/03-Apache-目录列表.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
+        <state relative-caret-position="713">
           <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
           <folding>
             <marker date="1561618133827" expanded="true" signature="750:996" ph="..." />
@@ -447,13 +792,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code-02/05-在node中使用模板引擎.js">
+    <entry file="file://$PROJECT_DIR$/code-02/template-apache.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="232">
+          <caret line="92" column="88" lean-forward="false" selection-start-line="92" selection-start-column="88" selection-end-line="92" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-02/07-在Apache案例中加入模板引擎.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

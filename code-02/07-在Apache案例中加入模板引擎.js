@@ -4,33 +4,27 @@ var template = require('art-template')
 
 var server = http.createServer()
 
-var wwwDir = 'D:/Movie/www'
+var wwwDir = '/Users/zhaojunjie/Documents/GitHub/study_nodejs/code-02/www'
 
 server.on('request', function (req, res) {
-  var url = req.url
+  //readFile（）读取template-apache.html数据，data为二进制数据
   fs.readFile('./template-apache.html', function (err, data) {
     if (err) {
       return res.end('404 Not Found.')
     }
-    // 1. 如何得到 wwwDir 目录列表中的文件名和目录名
-    //    fs.readdir
-    // 2. 如何将得到的文件名和目录名替换到 template.html 中
-    //    2.1 在 template.html 中需要替换的位置预留一个特殊的标记（就像以前使用模板引擎的标记一样）
-    //    2.2 根据 files 生成需要的 HTML 内容
-    // 只要你做了这两件事儿，那这个问题就解决了
+    //console.log(data.toString())
+    //fs.readdir()读取wwwDir目录列表中的文件名和目录名，files为目录名构成的数组
     fs.readdir(wwwDir, function (err, files) {
       if (err) {
         return res.end('Can not find www dir.')
       }
-
-      // 这里只需要使用模板引擎解析替换 data 中的模板字符串就可以了
-      // 数据就是 files
-      // 然后去你的 template.html 文件中编写你的模板语法就可以了
+      // 打印 files => [ '.DS_Store', 'a.txt', 'test1', 'test2' ]
+      // template.renser(字符串数据{{index}}，替换对象{index：value}),返回字符串
       var htmlStr = template.render(data.toString(), {
-        title: '哈哈',
+        title: '模板引擎',
         files: files
       })
-
+      console.log(htmlStr)
       // 3. 发送解析替换过后的响应数据
       res.end(htmlStr)
     })
