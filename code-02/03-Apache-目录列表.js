@@ -3,7 +3,7 @@ var fs = require('fs')
 
 var server = http.createServer()
 
-var wwwDir = 'D:/Movie/www'
+var wwwDir = '/Users/zhaojunjie/Documents/GitHub/study_nodejs/code-02/www'
 
 server.on('request', function (req, res) {
   var url = req.url
@@ -33,7 +33,7 @@ server.on('request', function (req, res) {
             <td class="detailsColumn" data-value="1509589967">2017/11/2 上午10:32:47</td>
           </tr>
         `
-      })
+    })
 
       // 2.3 替换
       data = data.toString()
